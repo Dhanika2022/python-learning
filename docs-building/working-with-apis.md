@@ -1,6 +1,7 @@
 ---
-id: working-with-apis.md
-title: Working with APIs
+id: working-with-apis
+title: "Working with APIs"
+---
 
 # 🧩 External Tools
 

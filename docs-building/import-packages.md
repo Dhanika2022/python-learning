@@ -1,5 +1,5 @@
 ---
-id: import-packages.md
+id: import-packages
 title: Import packages
 ---
 

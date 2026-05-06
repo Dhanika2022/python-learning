@@ -1,5 +1,5 @@
 ---
-id: working-with-data.md
+id: working-with-data
 title: Working with data
 ---
 
